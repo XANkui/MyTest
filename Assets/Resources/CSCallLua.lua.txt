@@ -1,0 +1,10 @@
+
+person = {
+
+	name = "Bear"
+
+	age = 2
+
+
+}
+
