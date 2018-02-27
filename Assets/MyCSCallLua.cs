@@ -1,6 +1,7 @@
 ﻿
 using UnityEngine;
 using XLua;
+//Test
 
 public class MyCSCallLua : MonoBehaviour {
 	
